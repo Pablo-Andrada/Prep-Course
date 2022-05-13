@@ -138,13 +138,16 @@ function elevar(num, exponent) {
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
-  
+  var numEnt = (Math.round(num);
+  return numEnt;
+
 }
 
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  
+  var numEnt2 = (Math.ceil(num));
+  return numEnt2;
 }
 
 function numeroRandom() {
